@@ -6,9 +6,14 @@ p {
     text-align: center;
 }
 
+/*Table is centered and has a border.*/
 table {
     margin-left: auto;
     margin-right: auto;
+    border: 1px solid black;
+}
+
+td, th {
     border: 1px solid black;
 }
 
