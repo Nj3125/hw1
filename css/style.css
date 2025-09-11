@@ -23,7 +23,8 @@ td, th {
 }
 
 ul {
-    text-align: center;
+    text-align: left;
+    display: inline-block;
 }
 
 li {
